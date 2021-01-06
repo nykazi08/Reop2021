@@ -1,0 +1,13 @@
+ Volume in drive C is TI10692000E
+ Volume Serial Number is 06D4-EFE4
+
+ Directory of C:\Users\ny_al\OneDrive\Desktop\GIT2021_1
+
+01/06/2021  11:27 AM    <DIR>          .
+01/06/2021  11:27 AM    <DIR>          ..
+01/06/2021  11:19 AM            14,610 git command_21.docx
+01/06/2021  09:14 AM           106,751 git1.png
+01/06/2021  09:59 AM                77 mmm.txt
+01/06/2021  11:27 AM                 0 text.txt
+               4 File(s)        121,438 bytes
+               2 Dir(s)  478,443,552,768 bytes free
